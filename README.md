@@ -32,6 +32,12 @@ For build you need:
 - replace pointers to smart pointers;
 - remove document import function.
 
+## Prerun
+In Unigine SDK Browser you need:
+1. Add existing project (.project file);
+2. Reconfigure it: Other Actions -> Configure Project;
+3. Open Editor in Unigine Editor and run world file (need to compile shaders and create cache).
+
 ## Run Options
 - --editable - changeable part names;
 - --importable - ability to import STEP files if --model doesn`t specify;
