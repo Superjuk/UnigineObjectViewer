@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.7.2.2">
+	<guid>8d3790e183e78a743d80868904e8e4d70129f66a</guid>
+	<type>texture</type>
+	<hash>52139451</hash>
+	<parameters>
+		<parameter type="string" name="mipmap_type">box</parameter>
+		<parameter type="string" name="image_format">RGBA8</parameter>
+		<parameter type="bool" name="invert_g">0</parameter>
+		<parameter type="string" name="image_type">2d</parameter>
+		<parameter type="string" name="width">Original</parameter>
+		<parameter type="string" name="height">Original</parameter>
+		<parameter type="bool" name="srgb_correction">1</parameter>
+		<parameter type="bool" name="unchanged">0</parameter>
+	</parameters>
+	<runtimes>
+		<runtime id="8d3790e183e78a743d80868904e8e4d70129f66a" name="viewcube_highlighted.png" link="0"/>
+		<runtime id="277603a1b3cb679f8f330327791860c7976d122b" name="viewcube_highlighted.dds" link="1"/>
+	</runtimes>
+</asset>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.7.2.2">
+	<guid>67e664398c3b76eb288ca8de8327eb4fcf261517</guid>
+	<type>file</type>
+	<hash>99b2b8df</hash>
+	<runtimes>
+		<runtime id="67e664398c3b76eb288ca8de8327eb4fcf261517" name="filter_selection.frag" link="0"/>
+	</runtimes>
+</asset>

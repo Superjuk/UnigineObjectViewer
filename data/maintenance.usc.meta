@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.7.2.0">
+	<guid>35717931ff44a0dc407ec68b698d6a6e55c32ef5</guid>
+	<type>script</type>
+	<hash>76bccb73</hash>
+	<runtimes>
+		<runtime id="35717931ff44a0dc407ec68b698d6a6e55c32ef5" name="maintenance.usc" link="0"/>
+	</runtimes>
+</asset>

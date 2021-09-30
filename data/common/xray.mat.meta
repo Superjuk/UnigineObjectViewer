@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.7.2.2">
+	<guid>70e6c3c033d810dc5bc2730386f155e159a0dc00</guid>
+	<type>material</type>
+	<hash>61449367</hash>
+	<parameters>
+		<parameter type="bool" name="unchanged">1</parameter>
+	</parameters>
+	<runtimes>
+		<runtime id="70e6c3c033d810dc5bc2730386f155e159a0dc00" name="xray" link="0"/>
+	</runtimes>
+</asset>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.70">
+	<guid>f1faf3d052a234ef3b19dd822cb2fef9b96e1c04</guid>
+	<type>world</type>
+	<hash>019e2fb8</hash>
+	<runtimes>
+		<runtime id="f1faf3d052a234ef3b19dd822cb2fef9b96e1c04" name="maintenance.world" link="0"/>
+	</runtimes>
+</asset>

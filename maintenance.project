@@ -1,0 +1,1583 @@
+{
+	"version": "2",
+	"edit_settings": {
+		"arguments": "-video_app opengl -world_load \"maintenance\"",
+		"microprofile_enabled": 0,
+		"debug": "0"
+	},
+	"project_settings": {
+		"name": "maintenance",
+		"default_world": "maintenance",
+		"editor_version": "editor2",
+		"engine_binaries": "release",
+		"launcher_gui": 0,
+		"component_system": 0,
+		"launcher_console": 1,
+		"runtimes_generator": 0,
+		"build_tool": 0,
+		"bin_flags": 6,
+		"precision": 1,
+		"precision_forced": "0",
+		"project_template": "empty",
+		"api": "qmakecpp",
+		"stereo": "",
+		"monitors": "",
+		"sound": "auto",
+		"plugins": [
+			"OpenFlight",
+			"FbxImporter",
+			"CadImporter"
+		],
+		"addons": [
+		],
+		"files": [
+			{
+				"file": "bin/",
+				"tags": [
+					"user_binaries",
+					"unigine",
+					"binaries",
+					"plugins"
+				],
+				"hash": ""
+			},
+			{
+				"file": "bin/CadImporter_double_x64.dll",
+				"tags": [
+					"plugins"
+				],
+				"hash": "162704996716754176"
+			},
+			{
+				"file": "bin/CadImporter_double_x64d.dll",
+				"tags": [
+					"plugins"
+				],
+				"hash": "162704996748327680"
+			},
+			{
+				"file": "bin/CadImporter_double_x64d.pdb",
+				"tags": [
+					"plugins"
+				],
+				"hash": "162704996753301248"
+			},
+			{
+				"file": "bin/Editor2_double_x64.dll",
+				"tags": [
+					"binaries"
+				],
+				"hash": "162704996426482176"
+			},
+			{
+				"file": "bin/Editor2_double_x64d.dll",
+				"tags": [
+					"binaries"
+				],
+				"hash": "162704996427707392"
+			},
+			{
+				"file": "bin/Editor2_double_x64d.pdb",
+				"tags": [
+					"binaries"
+				],
+				"hash": "1627049965117035008"
+			},
+			{
+				"file": "bin/FbxImporter_double_x64.dll",
+				"tags": [
+					"plugins"
+				],
+				"hash": "162704996713053952"
+			},
+			{
+				"file": "bin/FbxImporter_double_x64d.dll",
+				"tags": [
+					"plugins"
+				],
+				"hash": "162704996717565696"
+			},
+			{
+				"file": "bin/FbxImporter_double_x64d.pdb",
+				"tags": [
+					"plugins"
+				],
+				"hash": "162704996715257600"
+			},
+			{
+				"file": "bin/NCSEcw.dll",
+				"tags": [
+					"binaries"
+				],
+				"hash": "16270499659610808"
+			},
+			{
+				"file": "bin/OpenFlight_double_x64.dll",
+				"tags": [
+					"plugins"
+				],
+				"hash": "1627049967158720"
+			},
+			{
+				"file": "bin/OpenFlight_double_x64d.dll",
+				"tags": [
+					"plugins"
+				],
+				"hash": "1627049967468480"
+			},
+			{
+				"file": "bin/OpenFlight_double_x64d.pdb",
+				"tags": [
+					"plugins"
+				],
+				"hash": "16270499673461120"
+			},
+			{
+				"file": "bin/Qt5Concurrent.dll",
+				"tags": [
+					"binaries"
+				],
+				"hash": "162704996429696"
+			},
+			{
+				"file": "bin/Qt5Core.dll",
+				"tags": [
+					"binaries"
+				],
+				"hash": "16270499645715968"
+			},
+			{
+				"file": "bin/Qt5Gui.dll",
+				"tags": [
+					"binaries"
+				],
+				"hash": "16270499645941760"
+			},
+			{
+				"file": "bin/Qt5Network.dll",
+				"tags": [
+					"binaries"
+				],
+				"hash": "16270499641213952"
+			},
+			{
+				"file": "bin/Qt5Widgets.dll",
+				"tags": [
+					"binaries"
+				],
+				"hash": "16270499645561344"
+			},
+			{
+				"file": "bin/Unigine_double_x64.dll",
+				"tags": [
+					"binaries"
+				],
+				"hash": "162704996318078720"
+			},
+			{
+				"file": "bin/Unigine_double_x64.pdb",
+				"tags": [
+					"binaries"
+				],
+				"hash": "162704996322818816"
+			},
+			{
+				"file": "bin/Unigine_double_x64d.dll",
+				"tags": [
+					"binaries"
+				],
+				"hash": "162704996339349760"
+			},
+			{
+				"file": "bin/Unigine_double_x64d.pdb",
+				"tags": [
+					"binaries"
+				],
+				"hash": "1627049964163418112"
+			},
+			{
+				"file": "bin/d3dcompiler_47.dll",
+				"tags": [
+					"binaries"
+				],
+				"hash": "16270499664173928"
+			},
+			{
+				"file": "bin/gdal.dll",
+				"tags": [
+					"binaries"
+				],
+				"hash": "162704996513219328"
+			},
+			{
+				"file": "bin/gdaldata/",
+				"tags": [
+					"binaries"
+				],
+				"hash": ""
+			},
+			{
+				"file": "bin/gdaldata/compdcs.csv",
+				"tags": [
+					"binaries"
+				],
+				"hash": "16270499659116"
+			},
+			{
+				"file": "bin/gdaldata/coordinate_axis.csv",
+				"tags": [
+					"binaries"
+				],
+				"hash": "16270499658302"
+			},
+			{
+				"file": "bin/gdaldata/datum_shift.csv",
+				"tags": [
+					"binaries"
+				],
+				"hash": "1627049965179890"
+			},
+			{
+				"file": "bin/gdaldata/ellipsoid.csv",
+				"tags": [
+					"binaries"
+				],
+				"hash": "162704996514365"
+			},
+			{
+				"file": "bin/gdaldata/gcs.csv",
+				"tags": [
+					"binaries"
+				],
+				"hash": "162704996553326"
+			},
+			{
+				"file": "bin/gdaldata/gcs.override.csv",
+				"tags": [
+					"binaries"
+				],
+				"hash": "1627049965513"
+			},
+			{
+				"file": "bin/gdaldata/gdal_datum.csv",
+				"tags": [
+					"binaries"
+				],
+				"hash": "1627049965234839"
+			},
+			{
+				"file": "bin/gdaldata/geoccs.csv",
+				"tags": [
+					"binaries"
+				],
+				"hash": "162704996514047"
+			},
+			{
+				"file": "bin/gdaldata/gt_datum.csv",
+				"tags": [
+					"binaries"
+				],
+				"hash": "162704996515804"
+			},
+			{
+				"file": "bin/gdaldata/gt_ellips.csv",
+				"tags": [
+					"binaries"
+				],
+				"hash": "16270499651719"
+			},
+			{
+				"file": "bin/gdaldata/ozi_datum.csv",
+				"tags": [
+					"binaries"
+				],
+				"hash": "16270499658482"
+			},
+			{
+				"file": "bin/gdaldata/ozi_ellips.csv",
+				"tags": [
+					"binaries"
+				],
+				"hash": "16270499651349"
+			},
+			{
+				"file": "bin/gdaldata/pcs.csv",
+				"tags": [
+					"binaries"
+				],
+				"hash": "1627049965764672"
+			},
+			{
+				"file": "bin/gdaldata/pcs.override.csv",
+				"tags": [
+					"binaries"
+				],
+				"hash": "16270499651581"
+			},
+			{
+				"file": "bin/gdaldata/prime_meridian.csv",
+				"tags": [
+					"binaries"
+				],
+				"hash": "16270499651910"
+			},
+			{
+				"file": "bin/gdaldata/projop_wparm.csv",
+				"tags": [
+					"binaries"
+				],
+				"hash": "1627049965278765"
+			},
+			{
+				"file": "bin/gdaldata/s57agencies.csv",
+				"tags": [
+					"binaries"
+				],
+				"hash": "162704996513304"
+			},
+			{
+				"file": "bin/gdaldata/s57attributes.csv",
+				"tags": [
+					"binaries"
+				],
+				"hash": "162704996520001"
+			},
+			{
+				"file": "bin/gdaldata/s57attributes_aml.csv",
+				"tags": [
+					"binaries"
+				],
+				"hash": "162704996518555"
+			},
+			{
+				"file": "bin/gdaldata/s57attributes_iw.csv",
+				"tags": [
+					"binaries"
+				],
+				"hash": "16270499658981"
+			},
+			{
+				"file": "bin/gdaldata/s57expectedinput.csv",
+				"tags": [
+					"binaries"
+				],
+				"hash": "162704996520885"
+			},
+			{
+				"file": "bin/gdaldata/s57objectclasses.csv",
+				"tags": [
+					"binaries"
+				],
+				"hash": "162704996553297"
+			},
+			{
+				"file": "bin/gdaldata/s57objectclasses_aml.csv",
+				"tags": [
+					"binaries"
+				],
+				"hash": "162704996564289"
+			},
+			{
+				"file": "bin/gdaldata/s57objectclasses_iw.csv",
+				"tags": [
+					"binaries"
+				],
+				"hash": "162704996537247"
+			},
+			{
+				"file": "bin/gdaldata/stateplane.csv",
+				"tags": [
+					"binaries"
+				],
+				"hash": "162704996510360"
+			},
+			{
+				"file": "bin/gdaldata/unit_of_measure.csv",
+				"tags": [
+					"binaries"
+				],
+				"hash": "162704996522291"
+			},
+			{
+				"file": "bin/gdaldata/vertcs.csv",
+				"tags": [
+					"binaries"
+				],
+				"hash": "162704996512679"
+			},
+			{
+				"file": "bin/gdaldata/vertcs.override.csv",
+				"tags": [
+					"binaries"
+				],
+				"hash": "16270499651081"
+			},
+			{
+				"file": "bin/gdalplugins/",
+				"tags": [
+					"binaries"
+				],
+				"hash": ""
+			},
+			{
+				"file": "bin/gdalplugins/gdal_ECW_JP2ECW.dll",
+				"tags": [
+					"binaries"
+				],
+				"hash": "1627049965184320"
+			},
+			{
+				"file": "bin/main_double_x64.exe",
+				"tags": [
+					"binaries"
+				],
+				"hash": "1627049964425472"
+			},
+			{
+				"file": "bin/main_double_x64d.exe",
+				"tags": [
+					"binaries"
+				],
+				"hash": "1627049964541184"
+			},
+			{
+				"file": "bin/maintenance_x64.exe",
+				"tags": [
+					"user_binaries"
+				],
+				"hash": "1617706682458752"
+			},
+			{
+				"file": "bin/maintenance_x64d.exe",
+				"tags": [
+					"user_binaries"
+				],
+				"hash": "1617706683636416"
+			},
+			{
+				"file": "bin/maintenance_x64d.pdb",
+				"tags": [
+					"user_binaries"
+				],
+				"hash": "16177066832371584"
+			},
+			{
+				"file": "bin/msvcp120.dll",
+				"tags": [
+					"binaries"
+				],
+				"hash": "1627049966660128"
+			},
+			{
+				"file": "bin/msvcr120.dll",
+				"tags": [
+					"binaries"
+				],
+				"hash": "1627049966963232"
+			},
+			{
+				"file": "bin/openal32.dll",
+				"tags": [
+					"binaries"
+				],
+				"hash": "1627049967761856"
+			},
+			{
+				"file": "bin/platforms/",
+				"tags": [
+					"binaries"
+				],
+				"hash": ""
+			},
+			{
+				"file": "bin/platforms/qwindows.dll",
+				"tags": [
+					"binaries"
+				],
+				"hash": "16270499641337344"
+			},
+			{
+				"file": "data/",
+				"tags": [
+					"unigine",
+					"project_data",
+					"unigine_data"
+				],
+				"hash": ""
+			},
+			{
+				"file": "data/core.ung",
+				"tags": [
+					"unigine_data"
+				],
+				"hash": "162704999346389257"
+			},
+			{
+				"file": "data/editor2.ung",
+				"tags": [
+					"unigine_data"
+				],
+				"hash": "16270499941954266"
+			},
+			{
+				"file": "data/guids.db",
+				"tags": [
+					"project_data"
+				],
+				"hash": "1617706702128588"
+			},
+			{
+				"file": "data/maintenance.usc",
+				"tags": [
+					"project_data"
+				],
+				"hash": "16177067021483"
+			},
+			{
+				"file": "data/maintenance.usc.meta",
+				"tags": [
+					"project_data"
+				],
+				"hash": "1617706702266"
+			},
+			{
+				"file": "data/maintenance.world",
+				"tags": [
+					"project_data"
+				],
+				"hash": "161770670235225"
+			},
+			{
+				"file": "data/maintenance.world.meta",
+				"tags": [
+					"project_data"
+				],
+				"hash": "1617706702264"
+			},
+			{
+				"file": "data/scripts.ung",
+				"tags": [
+					"unigine_data"
+				],
+				"hash": "162704999326789"
+			},
+			{
+				"file": "data/shader_d3d11.cache",
+				"tags": [
+					"project_data"
+				],
+				"hash": "16177067023137641"
+			},
+			{
+				"file": "data/shader_gl.cache",
+				"tags": [
+					"project_data"
+				],
+				"hash": "161770670226948709"
+			},
+			{
+				"file": "data/template_materials/",
+				"tags": [
+					"project_data"
+				],
+				"hash": ""
+			},
+			{
+				"file": "data/template_materials/ground_grid.mat",
+				"tags": [
+					"project_data"
+				],
+				"hash": "1617706702561"
+			},
+			{
+				"file": "data/template_materials/ground_grid.mat.meta",
+				"tags": [
+					"project_data"
+				],
+				"hash": "1617706702287"
+			},
+			{
+				"file": "data/template_materials/material_ball.mat",
+				"tags": [
+					"project_data"
+				],
+				"hash": "1617706702707"
+			},
+			{
+				"file": "data/template_materials/material_ball.mat.meta",
+				"tags": [
+					"project_data"
+				],
+				"hash": "1617706702289"
+			},
+			{
+				"file": "data/template_render_settings/",
+				"tags": [
+					"project_data"
+				],
+				"hash": ""
+			},
+			{
+				"file": "data/template_render_settings/template_high.render",
+				"tags": [
+					"project_data"
+				],
+				"hash": "161770670225660"
+			},
+			{
+				"file": "data/template_render_settings/template_high.render.meta",
+				"tags": [
+					"project_data"
+				],
+				"hash": "1617706702303"
+			},
+			{
+				"file": "data/template_render_settings/template_low.render",
+				"tags": [
+					"project_data"
+				],
+				"hash": "161770670225660"
+			},
+			{
+				"file": "data/template_render_settings/template_low.render.meta",
+				"tags": [
+					"project_data"
+				],
+				"hash": "1617706702301"
+			},
+			{
+				"file": "data/template_render_settings/template_medium.render",
+				"tags": [
+					"project_data"
+				],
+				"hash": "161770670225660"
+			},
+			{
+				"file": "data/template_render_settings/template_medium.render.meta",
+				"tags": [
+					"project_data"
+				],
+				"hash": "1617706702305"
+			},
+			{
+				"file": "data/template_render_settings/template_ultra.render",
+				"tags": [
+					"project_data"
+				],
+				"hash": "161770670225662"
+			},
+			{
+				"file": "data/template_render_settings/template_ultra.render.meta",
+				"tags": [
+					"project_data"
+				],
+				"hash": "1617706702304"
+			},
+			{
+				"file": "data/template_render_settings/template_virtual_reality.render",
+				"tags": [
+					"project_data"
+				],
+				"hash": "161770670225610"
+			},
+			{
+				"file": "data/template_render_settings/template_virtual_reality.render.meta",
+				"tags": [
+					"project_data"
+				],
+				"hash": "1617706702314"
+			},
+			{
+				"file": "include/",
+				"tags": [
+					"unigine_includes"
+				],
+				"hash": ""
+			},
+			{
+				"file": "include/UnigineApp.h",
+				"tags": [
+					"unigine_includes"
+				],
+				"hash": "16270499655604"
+			},
+			{
+				"file": "include/UnigineAsyncQueue.h",
+				"tags": [
+					"unigine_includes"
+				],
+				"hash": "16270499653324"
+			},
+			{
+				"file": "include/UnigineBase.h",
+				"tags": [
+					"unigine_includes"
+				],
+				"hash": "16270499665442"
+			},
+			{
+				"file": "include/UnigineBounds.h",
+				"tags": [
+					"unigine_includes"
+				],
+				"hash": "16270499669791"
+			},
+			{
+				"file": "include/UnigineCallback.h",
+				"tags": [
+					"unigine_includes"
+				],
+				"hash": "162704996631897"
+			},
+			{
+				"file": "include/UnigineCamera.h",
+				"tags": [
+					"unigine_includes"
+				],
+				"hash": "16270499663699"
+			},
+			{
+				"file": "include/UnigineChecksum.h",
+				"tags": [
+					"unigine_includes"
+				],
+				"hash": "16270499663317"
+			},
+			{
+				"file": "include/UnigineCompress.h",
+				"tags": [
+					"unigine_includes"
+				],
+				"hash": "16270499662063"
+			},
+			{
+				"file": "include/UnigineConfig.h",
+				"tags": [
+					"unigine_includes"
+				],
+				"hash": "16270499661974"
+			},
+			{
+				"file": "include/UnigineConsole.h",
+				"tags": [
+					"unigine_includes"
+				],
+				"hash": "16270499666277"
+			},
+			{
+				"file": "include/UnigineControls.h",
+				"tags": [
+					"unigine_includes"
+				],
+				"hash": "16270499668947"
+			},
+			{
+				"file": "include/UnigineDataset.h",
+				"tags": [
+					"unigine_includes"
+				],
+				"hash": "16270499667240"
+			},
+			{
+				"file": "include/UnigineDecals.h",
+				"tags": [
+					"unigine_includes"
+				],
+				"hash": "16270499665974"
+			},
+			{
+				"file": "include/UnigineDir.h",
+				"tags": [
+					"unigine_includes"
+				],
+				"hash": "16270499661969"
+			},
+			{
+				"file": "include/UnigineEditor.h",
+				"tags": [
+					"unigine_includes"
+				],
+				"hash": "16270499664441"
+			},
+			{
+				"file": "include/UnigineEllipsoid.h",
+				"tags": [
+					"unigine_includes"
+				],
+				"hash": "16270499663357"
+			},
+			{
+				"file": "include/UnigineEngine.h",
+				"tags": [
+					"unigine_includes"
+				],
+				"hash": "162704996625484"
+			},
+			{
+				"file": "include/UnigineFactory.h",
+				"tags": [
+					"unigine_includes"
+				],
+				"hash": "16270499661738"
+			},
+			{
+				"file": "include/UnigineFfp.h",
+				"tags": [
+					"unigine_includes"
+				],
+				"hash": "16270499663092"
+			},
+			{
+				"file": "include/UnigineFields.h",
+				"tags": [
+					"unigine_includes"
+				],
+				"hash": "16270499667910"
+			},
+			{
+				"file": "include/UnigineFileSystem.h",
+				"tags": [
+					"unigine_includes"
+				],
+				"hash": "162704996611860"
+			},
+			{
+				"file": "include/UnigineFunction.h",
+				"tags": [
+					"unigine_includes"
+				],
+				"hash": "162704996611345"
+			},
+			{
+				"file": "include/UnigineGUID.h",
+				"tags": [
+					"unigine_includes"
+				],
+				"hash": "16270499661845"
+			},
+			{
+				"file": "include/UnigineGame.h",
+				"tags": [
+					"unigine_includes"
+				],
+				"hash": "16270499663075"
+			},
+			{
+				"file": "include/UnigineGeodetics.h",
+				"tags": [
+					"unigine_includes"
+				],
+				"hash": "16270499664101"
+			},
+			{
+				"file": "include/UnigineGeometry.h",
+				"tags": [
+					"unigine_includes"
+				],
+				"hash": "162704996610203"
+			},
+			{
+				"file": "include/UnigineGui.h",
+				"tags": [
+					"unigine_includes"
+				],
+				"hash": "16270499667998"
+			},
+			{
+				"file": "include/UnigineHash.h",
+				"tags": [
+					"unigine_includes"
+				],
+				"hash": "162704996612476"
+			},
+			{
+				"file": "include/UnigineHashMap.h",
+				"tags": [
+					"unigine_includes"
+				],
+				"hash": "162704996611196"
+			},
+			{
+				"file": "include/UnigineHashSet.h",
+				"tags": [
+					"unigine_includes"
+				],
+				"hash": "16270499664039"
+			},
+			{
+				"file": "include/UnigineImage.h",
+				"tags": [
+					"unigine_includes"
+				],
+				"hash": "162704996610060"
+			},
+			{
+				"file": "include/UnigineImport.h",
+				"tags": [
+					"unigine_includes"
+				],
+				"hash": "162704996616479"
+			},
+			{
+				"file": "include/UnigineInterface.h",
+				"tags": [
+					"unigine_includes"
+				],
+				"hash": "1627049966117208"
+			},
+			{
+				"file": "include/UnigineInterpreter.h",
+				"tags": [
+					"unigine_includes"
+				],
+				"hash": "162704996643991"
+			},
+			{
+				"file": "include/UnigineJson.h",
+				"tags": [
+					"unigine_includes"
+				],
+				"hash": "16270499663337"
+			},
+			{
+				"file": "include/UnigineLights.h",
+				"tags": [
+					"unigine_includes"
+				],
+				"hash": "162704996619631"
+			},
+			{
+				"file": "include/UnigineLog.h",
+				"tags": [
+					"unigine_includes"
+				],
+				"hash": "16270499661366"
+			},
+			{
+				"file": "include/UnigineLogic.h",
+				"tags": [
+					"unigine_includes"
+				],
+				"hash": "16270499668269"
+			},
+			{
+				"file": "include/UnigineMap.h",
+				"tags": [
+					"unigine_includes"
+				],
+				"hash": "16270499666977"
+			},
+			{
+				"file": "include/UnigineMaterial.h",
+				"tags": [
+					"unigine_includes"
+				],
+				"hash": "162704996611884"
+			},
+			{
+				"file": "include/UnigineMaterials.h",
+				"tags": [
+					"unigine_includes"
+				],
+				"hash": "16270499662608"
+			},
+			{
+				"file": "include/UnigineMath2d.h",
+				"tags": [
+					"unigine_includes"
+				],
+				"hash": "16270499662990"
+			},
+			{
+				"file": "include/UnigineMathLib.h",
+				"tags": [
+					"unigine_includes"
+				],
+				"hash": "1627049966141857"
+			},
+			{
+				"file": "include/UnigineMemory.h",
+				"tags": [
+					"unigine_includes"
+				],
+				"hash": "16270499662042"
+			},
+			{
+				"file": "include/UnigineMesh.h",
+				"tags": [
+					"unigine_includes"
+				],
+				"hash": "162704996610820"
+			},
+			{
+				"file": "include/UnigineMeshDynamic.h",
+				"tags": [
+					"unigine_includes"
+				],
+				"hash": "162704996610883"
+			},
+			{
+				"file": "include/UnigineMeta.h",
+				"tags": [
+					"unigine_includes"
+				],
+				"hash": "162704996685"
+			},
+			{
+				"file": "include/UnigineNode.h",
+				"tags": [
+					"unigine_includes"
+				],
+				"hash": "162704996612723"
+			},
+			{
+				"file": "include/UnigineNodes.h",
+				"tags": [
+					"unigine_includes"
+				],
+				"hash": "16270499666392"
+			},
+			{
+				"file": "include/UnigineObjects.h",
+				"tags": [
+					"unigine_includes"
+				],
+				"hash": "162704996694002"
+			},
+			{
+				"file": "include/UniginePackageUng.h",
+				"tags": [
+					"unigine_includes"
+				],
+				"hash": "16270499661972"
+			},
+			{
+				"file": "include/UniginePair.h",
+				"tags": [
+					"unigine_includes"
+				],
+				"hash": "16270499663055"
+			},
+			{
+				"file": "include/UniginePath.h",
+				"tags": [
+					"unigine_includes"
+				],
+				"hash": "16270499663089"
+			},
+			{
+				"file": "include/UniginePathFinding.h",
+				"tags": [
+					"unigine_includes"
+				],
+				"hash": "16270499669315"
+			},
+			{
+				"file": "include/UniginePhysicals.h",
+				"tags": [
+					"unigine_includes"
+				],
+				"hash": "16270499668336"
+			},
+			{
+				"file": "include/UniginePhysics.h",
+				"tags": [
+					"unigine_includes"
+				],
+				"hash": "162704996649901"
+			},
+			{
+				"file": "include/UniginePlayers.h",
+				"tags": [
+					"unigine_includes"
+				],
+				"hash": "162704996613052"
+			},
+			{
+				"file": "include/UniginePlugin.h",
+				"tags": [
+					"unigine_includes"
+				],
+				"hash": "16270499663377"
+			},
+			{
+				"file": "include/UniginePrimitives.h",
+				"tags": [
+					"unigine_includes"
+				],
+				"hash": "16270499662756"
+			},
+			{
+				"file": "include/UnigineProfiler.h",
+				"tags": [
+					"unigine_includes"
+				],
+				"hash": "16270499661748"
+			},
+			{
+				"file": "include/UnigineProperties.h",
+				"tags": [
+					"unigine_includes"
+				],
+				"hash": "162704996610409"
+			},
+			{
+				"file": "include/UniginePtr.h",
+				"tags": [
+					"unigine_includes"
+				],
+				"hash": "16270499663535"
+			},
+			{
+				"file": "include/UnigineRegExp.h",
+				"tags": [
+					"unigine_includes"
+				],
+				"hash": "16270499661595"
+			},
+			{
+				"file": "include/UnigineRender.h",
+				"tags": [
+					"unigine_includes"
+				],
+				"hash": "162704996648801"
+			},
+			{
+				"file": "include/UnigineRenderContext.h",
+				"tags": [
+					"unigine_includes"
+				],
+				"hash": "16270499662040"
+			},
+			{
+				"file": "include/UnigineRenderState.h",
+				"tags": [
+					"unigine_includes"
+				],
+				"hash": "16270499665227"
+			},
+			{
+				"file": "include/UnigineResource.h",
+				"tags": [
+					"unigine_includes"
+				],
+				"hash": "16270499661749"
+			},
+			{
+				"file": "include/UnigineSet.h",
+				"tags": [
+					"unigine_includes"
+				],
+				"hash": "16270499662979"
+			},
+			{
+				"file": "include/UnigineShader.h",
+				"tags": [
+					"unigine_includes"
+				],
+				"hash": "16270499668826"
+			},
+			{
+				"file": "include/UnigineSort.h",
+				"tags": [
+					"unigine_includes"
+				],
+				"hash": "16270499666738"
+			},
+			{
+				"file": "include/UnigineSounds.h",
+				"tags": [
+					"unigine_includes"
+				],
+				"hash": "16270499669390"
+			},
+			{
+				"file": "include/UnigineSplash.h",
+				"tags": [
+					"unigine_includes"
+				],
+				"hash": "16270499662333"
+			},
+			{
+				"file": "include/UnigineSplineGraph.h",
+				"tags": [
+					"unigine_includes"
+				],
+				"hash": "16270499663964"
+			},
+			{
+				"file": "include/UnigineStreams.h",
+				"tags": [
+					"unigine_includes"
+				],
+				"hash": "16270499669667"
+			},
+			{
+				"file": "include/UnigineString.h",
+				"tags": [
+					"unigine_includes"
+				],
+				"hash": "162704996619369"
+			},
+			{
+				"file": "include/UnigineTextures.h",
+				"tags": [
+					"unigine_includes"
+				],
+				"hash": "162704996613042"
+			},
+			{
+				"file": "include/UnigineThread.h",
+				"tags": [
+					"unigine_includes"
+				],
+				"hash": "16270499664425"
+			},
+			{
+				"file": "include/UnigineTileset.h",
+				"tags": [
+					"unigine_includes"
+				],
+				"hash": "16270499663465"
+			},
+			{
+				"file": "include/UnigineTilesetFile.h",
+				"tags": [
+					"unigine_includes"
+				],
+				"hash": "16270499662790"
+			},
+			{
+				"file": "include/UnigineTimer.h",
+				"tags": [
+					"unigine_includes"
+				],
+				"hash": "16270499661585"
+			},
+			{
+				"file": "include/UnigineTree.h",
+				"tags": [
+					"unigine_includes"
+				],
+				"hash": "162704996616838"
+			},
+			{
+				"file": "include/UnigineType.h",
+				"tags": [
+					"unigine_includes"
+				],
+				"hash": "162704996614191"
+			},
+			{
+				"file": "include/UnigineUserInterface.h",
+				"tags": [
+					"unigine_includes"
+				],
+				"hash": "16270499663054"
+			},
+			{
+				"file": "include/UnigineUtils.h",
+				"tags": [
+					"unigine_includes"
+				],
+				"hash": "16270499661315"
+			},
+			{
+				"file": "include/UnigineVector.h",
+				"tags": [
+					"unigine_includes"
+				],
+				"hash": "162704996637531"
+			},
+			{
+				"file": "include/UnigineViewport.h",
+				"tags": [
+					"unigine_includes"
+				],
+				"hash": "16270499665468"
+			},
+			{
+				"file": "include/UnigineVisualizer.h",
+				"tags": [
+					"unigine_includes"
+				],
+				"hash": "16270499667161"
+			},
+			{
+				"file": "include/UnigineWidgets.h",
+				"tags": [
+					"unigine_includes"
+				],
+				"hash": "162704996654932"
+			},
+			{
+				"file": "include/UnigineWorld.h",
+				"tags": [
+					"unigine_includes"
+				],
+				"hash": "16270499668938"
+			},
+			{
+				"file": "include/UnigineWorlds.h",
+				"tags": [
+					"unigine_includes"
+				],
+				"hash": "162704996622027"
+			},
+			{
+				"file": "include/UnigineXml.h",
+				"tags": [
+					"unigine_includes"
+				],
+				"hash": "16270499669164"
+			},
+			{
+				"file": "include/plugins/",
+				"tags": [
+					"unigine_includes"
+				],
+				"hash": ""
+			},
+			{
+				"file": "include/plugins/AppEasyBlendInterface.h",
+				"tags": [
+					"unigine_includes"
+				],
+				"hash": "16270499661203"
+			},
+			{
+				"file": "include/plugins/AppProjectionInterface.h",
+				"tags": [
+					"unigine_includes"
+				],
+				"hash": "16270499664546"
+			},
+			{
+				"file": "include/plugins/CigiClientInterface.h",
+				"tags": [
+					"unigine_includes"
+				],
+				"hash": "162704996641146"
+			},
+			{
+				"file": "include/plugins/HLAClientInterface.h",
+				"tags": [
+					"unigine_includes"
+				],
+				"hash": "162704996612008"
+			},
+			{
+				"file": "include/plugins/LeapMotionInterface.h",
+				"tags": [
+					"unigine_includes"
+				],
+				"hash": "16270499663381"
+			},
+			{
+				"file": "include/plugins/SynckerInterface.h",
+				"tags": [
+					"unigine_includes"
+				],
+				"hash": "162704996612429"
+			},
+			{
+				"file": "launch_debug.bat",
+				"tags": [
+					"launcher_console"
+				],
+				"hash": "1627049994427"
+			},
+			{
+				"file": "launch_editor.bat",
+				"tags": [
+					"launcher_console"
+				],
+				"hash": "1627049994485"
+			},
+			{
+				"file": "launch_release.bat",
+				"tags": [
+					"launcher_console"
+				],
+				"hash": "1627049994424"
+			},
+			{
+				"file": "lib/",
+				"tags": [
+					"binaries"
+				],
+				"hash": ""
+			},
+			{
+				"file": "lib/Unigine_double_x64.lib",
+				"tags": [
+					"binaries"
+				],
+				"hash": "16270499652258290"
+			},
+			{
+				"file": "lib/Unigine_double_x64d.lib",
+				"tags": [
+					"binaries"
+				],
+				"hash": "16270499652263056"
+			},
+			{
+				"file": "source/",
+				"tags": [
+					"project_sources"
+				],
+				"hash": ""
+			},
+			{
+				"file": "source/AppEditorLogic.cpp",
+				"tags": [
+					"project_sources"
+				],
+				"hash": "16177067022064"
+			},
+			{
+				"file": "source/AppEditorLogic.h",
+				"tags": [
+					"project_sources"
+				],
+				"hash": "16177067021061"
+			},
+			{
+				"file": "source/AppQt/",
+				"tags": [
+					"project_sources"
+				],
+				"hash": ""
+			},
+			{
+				"file": "source/AppQt/AppQt.cpp",
+				"tags": [
+					"project_sources"
+				],
+				"hash": "161770670222123"
+			},
+			{
+				"file": "source/AppQt/AppQt.h",
+				"tags": [
+					"project_sources"
+				],
+				"hash": "16177067024746"
+			},
+			{
+				"file": "source/AppQt/D3D11AppQt.cpp",
+				"tags": [
+					"project_sources"
+				],
+				"hash": "1617706702885"
+			},
+			{
+				"file": "source/AppQt/D3D11AppQt.h",
+				"tags": [
+					"project_sources"
+				],
+				"hash": "1617706702959"
+			},
+			{
+				"file": "source/AppQt/GLAppQt.cpp",
+				"tags": [
+					"project_sources"
+				],
+				"hash": "16177067021077"
+			},
+			{
+				"file": "source/AppQt/GLAppQt.h",
+				"tags": [
+					"project_sources"
+				],
+				"hash": "1617706702955"
+			},
+			{
+				"file": "source/AppSystemLogic.cpp",
+				"tags": [
+					"project_sources"
+				],
+				"hash": "16177067021610"
+			},
+			{
+				"file": "source/AppSystemLogic.h",
+				"tags": [
+					"project_sources"
+				],
+				"hash": "1617706702973"
+			},
+			{
+				"file": "source/AppWorldLogic.cpp",
+				"tags": [
+					"project_sources"
+				],
+				"hash": "16177067022843"
+			},
+			{
+				"file": "source/AppWorldLogic.h",
+				"tags": [
+					"project_sources"
+				],
+				"hash": "16177067021132"
+			},
+			{
+				"file": "source/MainWindow.cpp",
+				"tags": [
+					"project_sources"
+				],
+				"hash": "1617706702815"
+			},
+			{
+				"file": "source/MainWindow.h",
+				"tags": [
+					"project_sources"
+				],
+				"hash": "1617706702895"
+			},
+			{
+				"file": "source/MainWindow.ui",
+				"tags": [
+					"project_sources"
+				],
+				"hash": "1617706702486"
+			},
+			{
+				"file": "source/maintenance.cpp",
+				"tags": [
+					"project_sources"
+				],
+				"hash": "16177067022337"
+			},
+			{
+				"file": "source/maintenance.pro",
+				"tags": [
+					"project_sources"
+				],
+				"hash": "16177067031150"
+			}
+		]
+	},
+	"sdk": {
+		"key": "simbin2.7.2.1windows",
+		"internal_id": "tier3_bin_windows",
+		"products": [
+			"tier3_bin_windows"
+		],
+		"edition": "sim",
+		"version": "2.7.2.1",
+		"internal_version": "40",
+		"base_version": "",
+		"timestamp": "201808131507",
+		"type": "bin",
+		"os": "windows",
+		"path": "C:/Users/Desktop-13/Unigine SDK Browser/sdks/sim_windows_2.7.2.1/",
+		"name": "UNIGINE 2 Sim",
+		"resource": "sdk",
+		"size": "1107447111",
+		"uncompressed_size": "3738531744",
+		"activation_types": [
+			1,
+			2
+		]
+	}
+}

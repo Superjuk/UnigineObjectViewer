@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<property version="2.7.2.2" name="initial_name" parent="node_base" manual="1" editable="1">
+    <parameter name="initial" type="string"></parameter>
+</property>

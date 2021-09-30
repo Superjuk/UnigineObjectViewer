@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.7.2.2">
+	<guid>b1dda4b475814f135ea2a52be6afa64a7dd1f020</guid>
+	<type>mesh</type>
+	<hash>7a03123</hash>
+	<parameters>
+		<parameter type="bool" name="unchanged">1</parameter>
+		<parameter type="float" name="scale">1</parameter>
+		<parameter type="bool" name="animation">1</parameter>
+		<parameter type="bool" name="vertex_cache">1</parameter>
+	</parameters>
+	<runtimes>
+		<runtime id="b1dda4b475814f135ea2a52be6afa64a7dd1f020" name="viewcube_arrows.mesh" link="0"/>
+	</runtimes>
+</asset>

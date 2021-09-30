@@ -1,0 +1,13 @@
+/build
+/source/*.user
+/lib
+/bin
+/include
+/data/*.ung
+/data/*.cache
+/.thumbnails
+/source/msvc_make.bat
+/data/.thumbnails
+/*.bat
+/data/.runtimes
+/*.modified

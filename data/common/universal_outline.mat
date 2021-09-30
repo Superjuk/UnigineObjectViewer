@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<material version="2.7.2.2" name="universal_outline" guid="12eee3e69a6ce113b434595dd5a2cdc32a3dd604" parent="d1edc45f0389de08ae84925be37b7117e1016f2a" base_material="mesh_base">
+	<state name="auxiliary">1</state>
+	<parameter name="auxiliary_color">1 0.333333343 0 1</parameter>
+</material>

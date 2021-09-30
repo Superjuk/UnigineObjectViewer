@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<material version="2.7.2.2" name="xray" guid="70e6c3c033d810dc5bc2730386f155e159a0dc00" base_material="mesh_base">
+	<blend src="src_alpha" dest="one_minus_src_alpha"/>
+	<options transparent="2"/>
+	<parameter name="albedo_color">0.686274529 0.854902029 1 1</parameter>
+	<parameter name="transparent">0.0299999993</parameter>
+	<parameter name="transparent_pow">0.344000012</parameter>
+</material>

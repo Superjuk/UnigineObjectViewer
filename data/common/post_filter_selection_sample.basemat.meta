@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.7.2.2">
+	<guid>9b280da327d83d51674ca8a061e51deac508d98d</guid>
+	<type>material</type>
+	<hash>6f02f509</hash>
+	<runtimes>
+		<runtime id="9b280da327d83d51674ca8a061e51deac508d98d" name="post_filter_selection_sample" link="0"/>
+	</runtimes>
+</asset>
