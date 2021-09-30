@@ -33,7 +33,7 @@ For build you need:
 - remove document import function.
 
 ## Run Options
---editable - changeable part names;
---importable - ability to import STEP files if --model doesn`t specify;
---model <name> </path/to/model.node> - load model from "data" folder. Path is relative. Root folder is "data";
---soffice </path/to/soffice/binary> - need to import office documents into html format (must deprecate in future).
+- --editable - changeable part names;
+- --importable - ability to import STEP files if --model doesn`t specify;
+- --model <name> </path/to/model.node> - load model from "data" folder. Path is relative. Root folder is "data";
+- --soffice </path/to/soffice/binary> - need to import office documents into html format (must deprecate in future).
