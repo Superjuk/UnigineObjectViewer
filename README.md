@@ -23,4 +23,17 @@ For build you need:
  - available list of initial names;
  - import models from STEP files (beta, in debug).
 
-## 
+## To-Do List
+- upgrade project from commercial Unigine 2.7.2 Sim to free Unigine 2.14.1 Community;
+- fix "gimbal lock" in viewcube;
+- fix rotate velocity (make it fixed);
+- remove "magic numbers";
+- split WorldLogic on classes;
+- replace pointers to smart pointers;
+- remove document import function.
+
+## Run Options
+--editable - changeable part names;
+--importable - ability to import STEP files if --model doesn`t specify;
+--model <name> </path/to/model.node> - load model from "data" folder. Path is relative. Root folder is "data";
+--soffice </path/to/soffice/binary> - need to import office documents into html format (must deprecate in future).
